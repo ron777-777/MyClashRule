@@ -26,4 +26,5 @@ custom_proxy_group=🚀 节点选择`select`(^(?!.*(ipv6|443|四川|广东|广�
 custom_proxy_group=♻️ 自动选择`url-test`(^(?!.*(ipv6|443|四川|广东|广西|湖北|网站|武汉|海南|江苏|辽宁|内蒙|内蒙古|上海|套餐|官网|校园|剩余|加速|所有|订阅|分流)).*)`http://www.gstatic.com/generate_204`300,,50
 
 enable_rule_generator=true
-overwrite_original_rules=true```
+overwrite_original_rules=true
+```
