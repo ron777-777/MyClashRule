@@ -1,0 +1,12 @@
+# 中国建设银行
+GEOSITE,ccb,DIRECT
+# 京东
+GEOSITE,jd,DIRECT
+# 阿里系
+GEOSITE,alibaba,DIRECT
+GEOSITE,alibaba-ads,DIRECT
+GEOSITE,alibabacloud,DIRECT
+# 云闪付
+GEOSITE,unionpay,DIRECT
+# 闲鱼
+DOMAIN-SUFFIX,goofish.com,DIRECT
