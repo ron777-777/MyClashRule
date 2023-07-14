@@ -286,7 +286,10 @@ DOMAIN-SUFFIX,duolabao.com
 
 
 #拼多多
-GEOSITE,pinduoduo
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,yangkeduo.com
 
 # 阿里系
 DOMAIN-SUFFIX,1688.com
