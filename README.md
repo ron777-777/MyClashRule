@@ -1,6 +1,11 @@
 # MyClashRule
 MyClashRule
 
+感谢  
+不良林  
+https://github.com/chinnsenn/ClashCustomRule  
+提供方案  
+
 ACL4SSR在线订阅转换  
 https://acl4ssr-sub.github.io/  
 orange订阅  
