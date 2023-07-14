@@ -5,7 +5,7 @@ ACL4SSR在线订阅转换
 https://acl4ssr-sub.github.io/  
 手搓地址  
 https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
-``[custom]
+```[custom]
 ;解决DNS泄露，无分流群组
 ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,services.googleapis.cn
@@ -26,4 +26,4 @@ custom_proxy_group=🚀 节点选择`select`(^(?!.*(ipv6|443|四川|广东|广�
 custom_proxy_group=♻️ 自动选择`url-test`(^(?!.*(ipv6|443|四川|广东|广西|湖北|网站|武汉|海南|江苏|辽宁|内蒙|内蒙古|上海|套餐|官网|校园|剩余|加速|所有|订阅|分流)).*)`http://www.gstatic.com/generate_204`300,,50
 
 enable_rule_generator=true
-overwrite_original_rules=true``
+overwrite_original_rules=true```
