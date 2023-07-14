@@ -4,6 +4,9 @@ GEOSITE,coolapk
 # 中国建设银行
 GEOSITE,ccb
 
+# 中国银行
+GEOSITE,boc
+
 # 京东
 DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buyimg.com
@@ -14,6 +17,9 @@ DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,paipai.com
 GEOSITE,jd
+
+#拼多多
+GEOSITE,pinduoduo
 
 # 阿里系
 DOMAIN-SUFFIX,1688.com
