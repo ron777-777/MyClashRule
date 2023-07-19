@@ -13,7 +13,14 @@ https://api.orangeapi.org/
 手搓地址  
 https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
 完整订阅  
-https://sub.maoxiongnet.com/sub?target=clash&new_name=true&url=https%3A%2F%2Fapi.orangeapi.org%2Fsub%3Fsuburl%3Dhttps%253A%252F%252Fsub2.jie-quick.buzz%252Fapi%252Fv1%252Fclient%252Fsubscribe%253Ftoken%253D11a2015c8f7840530bda899adbfa50dd%26newhost%3Dm.iqiyi.com%26showhost%3Dtrue%26queryhost%3Dtrue&insert=false&config=https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
+sub?target=clash&new_name=true&url=https%3A%2F%2Fapi.orangeapi.org%2Fsub%3Fsuburl%3Dhttps%253A%252F%252Fsub2.jie-quick.buzz%252Fapi%252Fv1%252Fclient%252Fsubscribe%253Ftoken%253D11a2015c8f7840530bda899adbfa50dd%26newhost%3Dm.iqiyi.com%26showhost%3Dtrue%26queryhost%3Dtrue&insert=false&config=https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
+
+前缀替换  
+https://sub.xeton.dev/  
+https://pi.dler.io/  
+https://sub.maoxiongnet.com/  
+https://sub.id9.cc/  
+
 
 ```[custom]
 ;解决DNS泄露，无分流群组
