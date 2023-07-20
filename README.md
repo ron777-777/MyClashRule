@@ -13,9 +13,7 @@ https://api.orangeapi.org/
 手搓地址  
 https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
 完整订阅  
-sub?target=clash&new_name=true&url=https%3A%2F%2Fapi.orangeapi.org%2Fsub%3Fsuburl%3Dhttps%253A%252F%252Fsub2.jie-quick.buzz%252Fapi%252Fv1%252Fclient%252Fsubscribe%253Ftoken%253D11a2015c8f7840530bda899adbfa50dd%26newhost%3Dm.iqiyi.com%26showhost%3Dtrue%26queryhost%3Dtrue&insert=false&config=https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
-
-sub?target=clash&new_name=true&url=https%3A%2F%2Fapi.orangeapi.org%2Fsub%3Fsuburl%3Dhttps%253A%252F%252Fsub2.jie-quick.buzz%252Fapi%252Fv1%252Fclient%252Fsubscribe%253Ftoken%253D11a2015c8f7840530bda899adbfa50dd%26newhost%3Dm.iqiyi.com%26showhost%3Dtrue&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fron777-777%2FMyClashRule%2Fmain%2FMyClashRule.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false
+sub?target=clash&new_name=true&url=https%3A%2F%2Fapi.orangeapi.org%2Fsub%3Fsuburl%3Dhttps%253A%252F%252Fsub2.jie-quick.buzz%252Fapi%252Fv1%252Fclient%252Fsubscribe%253Ftoken%253D11a2015c8f7840530bda899adbfa50dd%26newhost%3Dm.iqiyi.com%26showhost%3Dtrue&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fron777-777%2FMyClashRule%2Fmain%2FMyClashRule.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false  
 
 前缀替换  
 https://sub.xeton.dev/  
