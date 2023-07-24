@@ -1,0 +1,66 @@
+      com.jingdong.app.mall
+      com.jd.jrapp
+      com.jd.jdlite
+      com.jd.jxj
+
+      com.alibaba.android.rimet
+      com.taobao.idlefish
+      dkplugin.ppo.kfx
+      com.alimama.moon
+      {
+        package_name: me.ele
+        users:
+        [
+          0
+          999
+        ]
+      }     
+      {
+        package_name: com.taobao.taobao
+        users:
+        [
+          0
+          999
+        ]
+      }
+      {
+        package_name: com.eg.android.AlipayGphone
+        users:
+        [
+          0
+          999
+        ]
+      }
+
+      com.ccb.longjiLife
+      com.chinamworld.main
+      com.chinamworld.bocmbci
+      com.unionpay
+      cn.gov.pbc.dcep
+      com.tmri.app.main
+      net.evecom.android.mztapp
+      com.digitalchina.mobile.dfhfz1
+      com.MobileTicket
+
+      com.tencent.tmgp.pubgmhd
+      com.ztgame.bob
+      com.tencent.tmgp.sgame
+      com.tencent.lolm
+      com.tencent.pocket
+      com.netease.party
+
+      com.xunmeng.pinduoduo
+      com.xunmeng.ddjinbao
+
+      com.coolapk.market
+
+      com.ss.android.ugc.aweme   
+      
+      {
+        package_name: mark.via
+        users:
+        [
+          0
+          999
+        ]
+      }
