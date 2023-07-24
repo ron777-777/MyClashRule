@@ -94,7 +94,6 @@ https://sub.id9.cc/
         package_name: mark.via
         users:
         [
-          0
           999
         ]
       }
