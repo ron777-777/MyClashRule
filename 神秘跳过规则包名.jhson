@@ -60,7 +60,6 @@
         package_name: mark.via
         users:
         [
-          0
           999
         ]
       }
