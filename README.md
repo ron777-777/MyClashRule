@@ -12,6 +12,10 @@ orange订阅
 https://api.orangeapi.org/  
 手搓地址  
 https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
+
+WLB  
+https://raw.githubusercontent.com/ron777-777/MyClashRule/main/WLBClashRule.ini  
+
 完整订阅  
 
 快游戏  
