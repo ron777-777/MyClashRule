@@ -13,7 +13,10 @@ https://api.orangeapi.org/
 手搓地址  
 https://raw.githubusercontent.com/ron777-777/MyClashRule/main/MyClashRule.ini  
 
-WLB  
+Personal-V2ray
+
+
+WLB-Clash  
 https://raw.githubusercontent.com/ron777-777/MyClashRule/main/WLBClashRule.ini  
 
 完整订阅  
